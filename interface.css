@@ -7,10 +7,16 @@ h1 {
     color: #333;
     margin-bottom: 20px;
 }
+#game-container {
+    text-align: center;
+}
 img {
     display: block;
     margin: 0 auto;
     cursor: pointer;
+}
+#shop-container {
+    text-align: center;
 }
 button {
     padding: 10px 20px;
@@ -28,6 +34,9 @@ p {
     text-align: center;
     color: #333;
     margin-bottom: 10px;
+}
+#progress-container {
+    text-align: center;
 }
 progress {
     display: block;
