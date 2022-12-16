@@ -1,0 +1,38 @@
+body {
+    background-color: #eee;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+}
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #00bcd4;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #008ba3;
+}
+p {
+    text-align: center;
+    color: #333;
+    margin-bottom: 10px;
+}
+progress {
+    display: block;
+    margin: 20px auto;
+    width: 50%;
+    height: 20px;
+    background-color: #ddd;
+}
